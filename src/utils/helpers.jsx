@@ -1,0 +1,1 @@
+//I have directly used local state to manage employees instead of using helper functions for fetching and saving to localStorage for simplicity.
